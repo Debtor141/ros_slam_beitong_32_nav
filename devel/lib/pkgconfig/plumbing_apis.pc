@@ -1,0 +1,8 @@
+prefix=/home/debtor/rosex_ws/devel
+
+Name: plumbing_apis
+Description: Description of plumbing_apis
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

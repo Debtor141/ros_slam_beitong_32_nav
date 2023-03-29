@@ -1,0 +1,8 @@
+prefix=/home/debtor/rosex_ws/install
+
+Name: plumbing_test
+Description: Description of plumbing_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

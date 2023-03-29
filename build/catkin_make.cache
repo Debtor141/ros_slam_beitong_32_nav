@@ -1,0 +1,2 @@
+nav_demo:plumbing_apis:plumbing_head:plumbing_param_server:plumbing_server_client:plumbing_test:ros_car:tf01_static:tf02_dynamic:tf03_tfs:urdf01_rviz:urdf02_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/debtor/rosex_ws/devel -DCMAKE_INSTALL_PREFIX=/home/debtor/rosex_ws/install -G Unix Makefiles

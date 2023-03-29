@@ -1,0 +1,8 @@
+prefix=/home/debtor/rosex_ws/devel
+
+Name: ros_car
+Description: Description of ros_car
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,15 @@
+<!-- 需求：设置不同形状的机器人部件-->
+<robot name="mycar">
+    <link name="base_link">
+    <!--可视化-->
+        <visual>
+            <!--shape-->
+            <geometry>
+                <box size="0.3 0.2 0.1"/>
+            </geometry>
+            <!--offset-->
+            <!--color-->
+
+        </visual>
+    </link>
+</robot>

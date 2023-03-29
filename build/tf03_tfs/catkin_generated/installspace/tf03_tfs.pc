@@ -1,0 +1,8 @@
+prefix=/home/debtor/rosex_ws/install
+
+Name: tf03_tfs
+Description: Description of tf03_tfs
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

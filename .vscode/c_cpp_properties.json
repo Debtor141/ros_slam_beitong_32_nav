@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "${default}",
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "/opt/ros/melodic/include/**",
+                "/home/debtor/RosWorkspace/catkin_ws_task/src/tanwaylidar_view/include/**",
+                "/usr/include/**",
+                "/home/debtor/rosex_ws/devel/include/**",
+                "/home/debtor/rosex_ws/src/plumbing_head/include/**",
+                "/home/debtor/rosex_ws/src/plumbimg_head_src/include/plumbimg_head_src/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,8 @@
+prefix=/home/debtor/rosex_ws/install
+
+Name: urdf02_gazebo
+Description: Description of urdf02_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/debtor/rosex_ws/install
+
+Name: tf01_static
+Description: Description of tf01_static
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

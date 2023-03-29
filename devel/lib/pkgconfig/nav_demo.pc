@@ -1,0 +1,8 @@
+prefix=/home/debtor/rosex_ws/devel
+
+Name: nav_demo
+Description: Description of nav_demo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

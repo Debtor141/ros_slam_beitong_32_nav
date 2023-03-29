@@ -1,0 +1,14 @@
+<launch>
+    <!--启动乌龟节点-->
+    <node pkg="turtlesim" type="turtlesim_node" name="turtlesim_node"/>
+
+    <!--启动创建的手柄控制乌龟节点-->
+    <node pkg="ros_car" type="control_turtle" name="teleop_turtle" output="screen"/>
+
+    <!--向参数服务器写入参数-->
+    <param name="axis_linear" value="1" type="int"/>
+    <param name="axis_angular" value="0" type="int"/>
+
+    <!--启动手柄节点，respawn代表节点挂掉会自动重启-->
+    <node respawn="true" pkg="joy" type="joy_node" name="joystick"/>
+</launch>
